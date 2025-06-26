@@ -27,9 +27,4 @@ Data Validation
 
 [code @zdemo_excel3.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo003/zdemo_excel3.prog.abap)
 
-![image](https://github.com/user-attachments/assets/8eac73a1-ba54-47c7-96f1-5fc5edbb3147)
-
-![image](https://github.com/user-attachments/assets/b4c90e44-6371-43db-93d8-d0f35fd92be3)
-
-![image](https://github.com/user-attachments/assets/eef1f04d-2439-47b5-91e7-1c92d0306bf3)
-
+![image](https://github.com/user-attachments/assets/d46ff382-f1ae-448c-985f-2ebdfde00c62)
