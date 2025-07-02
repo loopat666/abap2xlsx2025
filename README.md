@@ -96,6 +96,41 @@ Export_Org_and_Contact
 
 ![image](https://github.com/user-attachments/assets/d7465cf6-d9c6-4029-9e91-b56ae29e0b81)
 
+### ZDEMO_EXCEL12 - Hide Size Out line Rows And Columns
+
+Hide Size Out line Rows And Columns
+
+[code @zdemo_excel12.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo012/zdemo_excel12.prog.abap)
+
+![image](https://github.com/user-attachments/assets/8722b6d8-ba31-48f7-b1b0-c3872d8acde0)
+
+### ZDEMO_EXCEL13 - Merged Cells
+
+MergedCells
+
+[code @zdemo_excel13.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo013/zdemo_excel13.prog.abap)
+
+![image](https://github.com/user-attachments/assets/89499073-1767-40bd-8a8f-c4cf67e0027c)
+
+### ZDEMO_EXCEL14 - Alignment
+
+Alignment
+
+[code @zdemo_excel14.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo014/zdemo_excel14.prog.abap)
+
+![image](https://github.com/user-attachments/assets/02cb10d7-2d86-4bcd-b972-2d082eece592)
+
+### ZDEMO_EXCEL15 - Sheets_with_different_default_date_formats
+
+Sheets_with_different_default_date_formats
+
+[code @zdemo_excel15.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo015/zdemo_excel15.prog.abap)
+
+![image](https://github.com/user-attachments/assets/1f2b559d-6be2-4603-aa50-e102d746ad3b)
+
+
+
+
 
 
 
