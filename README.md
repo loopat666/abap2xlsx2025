@@ -128,6 +128,48 @@ Sheets_with_different_default_date_formats
 
 ![image](https://github.com/user-attachments/assets/1f2b559d-6be2-4603-aa50-e102d746ad3b)
 
+### ZDEMO_EXCEL16 - Drawings
+
+Drawings
+
+[code @zdemo_excel16.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo016/zdemo_excel16.prog.abap)
+
+![image](https://github.com/user-attachments/assets/528d92ae-7c18-4940-9c03-0cfeb703ea2e)
+
+### ZDEMO_EXCEL17 - SheetProtection
+
+SheetProtection
+
+[code @zdemo_excel17.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo017/zdemo_excel17.prog.abap)
+
+![image](https://github.com/user-attachments/assets/8c5e7476-b44b-44bc-abaf-c8164efd8a17)
+
+![image](https://github.com/user-attachments/assets/3e3a367b-ac98-4f01-bfe5-e25afc861c9e)
+
+### ZDEMO_EXCEL18 - BookProtection
+
+BookProtection
+
+[code @zdemo_excel18.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo018/zdemo_excel18.prog.abap)
+
+![image](https://github.com/user-attachments/assets/3959ccfa-a097-4983-93b9-a6adcb59cf01)
+
+### ZDEMO_EXCEL19 - SetActiveSheet
+
+SetActiveSheet
+
+[code @zdemo_excel19.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo019/zdemo_excel19.prog.abap)
+
+![image](https://github.com/user-attachments/assets/d9b03fee-074b-43c0-9565-a478b2a1c1f0)
+
+### ZDEMO_EXCEL20 - BindAlv
+
+BindAlv
+
+[code @zdemo_excel20.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo020/zdemo_excel20.prog.abap)
+
+![image](https://github.com/user-attachments/assets/577d900c-36dc-4511-8b30-60a96729057c)
+
 
 
 
