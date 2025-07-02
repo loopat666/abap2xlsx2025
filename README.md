@@ -256,8 +256,22 @@ Static Styles_Chess
 
 ![image](https://github.com/user-attachments/assets/68f8d920-1ed0-4c85-bcf8-14c4b2892562)
 
+### ZDEMO_EXCEL39 - Charts
+
+Charts
+
+[code @zdemo_excel39.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo039/zdemo_excel39.prog.abap)
+
+![image](https://github.com/user-attachments/assets/9228cafd-3498-4ab3-8a99-b8ad7e8c239c)
 
 
+### ZDEMO_EXCEL47 - ColumnFormulas
+
+ColumnFormulas
+
+[code @zdemo_excel47.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo047/zdemo_excel47.prog.abap)
+
+![image](https://github.com/user-attachments/assets/31fe24b9-a4ac-4b47-a978-646a9c294e0f)
 
 
 
