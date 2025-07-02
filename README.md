@@ -37,3 +37,31 @@ Link to other sheets
 [code @zdemo_excel4.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo004/zdemo_excel4.prog.abap)
 
 ![image](https://github.com/user-attachments/assets/97506bed-152d-43ce-a134-b1204543c7a8)
+
+
+### ZDEMO_EXCEL5 - Conditional
+
+Conditional
+
+[code @zdemo_excel5.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo005/zdemo_excel5.prog.abap)
+
+![image](https://github.com/user-attachments/assets/7b49791f-0079-4729-ba4a-b35341ca9394)
+
+### ZDEMO_EXCEL6 - Formulas
+
+Formulas
+
+[code @zdemo_excel6.prog.abap](/src/zabap2xlsx_demo2025/zabap2xlsx_demo2025_demo006/zdemo_excel6.prog.abap)
+
+![image](https://github.com/user-attachments/assets/4e3918e8-180f-4ab5-b626-967a8a80e7d6)
+
+
+
+
+
+
+
+
+
+
+
