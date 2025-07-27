@@ -54,8 +54,6 @@ CLASS zcl_excel_demo1 IMPLEMENTATION.
     lo_worksheet->set_cell( ip_column = 'C' ip_row = 17 ip_value = '(Hindi)' ).
 
 
-    lo_worksheet->set_cell( ip_column = 'B' ip_row = 15 ip_value = '👋🌎, 👋🌍, 👋🌏' ).
-    lo_worksheet->set_cell( ip_column = 'C' ip_row = 15 ip_value = '(Emoji waving hand + 3 parts of the world)' ).
 
     lo_column = lo_worksheet->get_column( ip_column = 'B' ).
     lo_column->set_width( ip_width = 11 ).
